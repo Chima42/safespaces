@@ -1,11 +1,17 @@
 <template>
   <main>
+    <Button label="authenticate" />
   </main>
 </template>
 
 <script>
+import Button from './Button'
+
 export default {
-  name: 'Main'
+  name: 'Main',
+  components: {
+    Button
+  }
 }
 </script>
 

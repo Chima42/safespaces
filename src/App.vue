@@ -1,6 +1,6 @@
 <template>
-  <MainHeader headerText="header label"/>
-  <Main/>
+  <MainHeader headerText="header label" />
+  <Main />
 </template>
 
 <script>
